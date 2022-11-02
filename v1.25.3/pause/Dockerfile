@@ -1,1 +1,1 @@
-FROM docker/desktop-kubernetes-pause:3.8
+FROM desktop-kubernetes-pause:3.8
